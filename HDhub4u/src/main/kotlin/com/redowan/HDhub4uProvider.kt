@@ -31,7 +31,7 @@ import org.jsoup.nodes.Element
 //}
 
 class HDhub4uProvider : MainAPI() {
-    override var mainUrl = "https://www.hdhub4u.com.vc"
+    override var mainUrl = "http://hdhub4u.tw/"
     override var name = "HDhub4u"
     override var lang = "en"
     override val hasMainPage = true
